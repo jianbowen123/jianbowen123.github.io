@@ -1,5 +1,7 @@
 ## 欢迎来到我的网站 :trollface:	
 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
 您可以使用 [GitHub上的编辑器](https://github.com/jianbowen123/jianbowen123.github.io/edit/main/README.md) 来维护和预览Markdown文件中网站的内容。
 
 每当您提交到该存储库时，GitHub Pages都会运行[Jekyll](https://jekyllrb.com/) 从Markdown文件中的内容重建站点中的页面。
