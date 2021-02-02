@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎来到GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jianbowen123/jianbowen123.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+您可以使用 [GitHub上的编辑器](https://github.com/jianbowen123/jianbowen123.github.io/edit/main/README.md) 来维护和预览Markdown文件中网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交到该存储库时，GitHub Pages都会运行[Jekyll](https://jekyllrb.com/) 从Markdown文件中的内容重建站点中的页面。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻巧且易于使用的语法，可用于样式化您的文字。它包括以下约定
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+有关更多详细信息，请参见[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jianbowen123/jianbowen123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的Pages网站将使用您在 [存储库设置](https://github.com/jianbowen123/jianbowen123.github.io/settings)中选择的Jekyll主题的布局和样式。该主题的名称保存在 Jekyll `_config.yml` 配置文件中。
 
-### Support or Contact
+### 支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+页面有问题吗？查看我们的[文档](https://docs.github.com/categories/github-pages-basics/)或[与支持人员联系](https://support.github.com/contact)，我们将帮助您解决问题。
