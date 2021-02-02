@@ -1,39 +1,70 @@
-## 欢迎来到我的网站 🤕
+# Getting Started with Create React App
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-您可以使用 [GitHub上的编辑器](https://github.com/jianbowen123/jianbowen123.github.io/edit/main/README.md) 来维护和预览Markdown文件中网站的内容。
+## Available Scripts
 
-每当您提交到该存储库时，GitHub Pages都会运行[Jekyll](https://jekyllrb.com/) 从Markdown文件中的内容重建站点中的页面。
+In the project directory, you can run:
 
-### Markdown 😀
+### `yarn start`
 
-Markdown是一种轻巧且易于使用的语法，可用于样式化您的文字。它包括以下约定
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-```markdown
-Syntax highlighted code block
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-# Header 1
-## Header 2
-### Header 3
+### `yarn test`
 
-- Bulleted
-- List
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-1. Numbered
-2. List
+### `yarn build`
 
-**Bold** and _Italic_ and `Code` text
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-[Link](url) and ![Image](src)
-```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-有关更多详细信息，请参见[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Jekyll Themes
+### `yarn eject`
 
-您的Pages网站将使用您在 [存储库设置](https://github.com/jianbowen123/jianbowen123.github.io/settings)中选择的Jekyll主题的布局和样式。该主题的名称保存在 Jekyll `_config.yml` 配置文件中。
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-### 支持或联系
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-页面有问题吗？查看我们的[文档](https://docs.github.com/categories/github-pages-basics/)或[与支持人员联系](https://support.github.com/contact)，我们将帮助您解决问题。
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
